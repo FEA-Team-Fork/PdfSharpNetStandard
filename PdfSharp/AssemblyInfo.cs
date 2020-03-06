@@ -10,6 +10,6 @@ using System.Runtime.InteropServices;
 //[assembly: AssemblyConfiguration("")]
 //[assembly: AssemblyCompany("")]
 //[assembly: AssemblyProduct("AspNetCore.ReportingServices")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
-[assembly: AssemblyTrademark("")]
+//[assembly: AssemblyCopyright("Copyright ©  2018")]
+//[assembly: AssemblyTrademark("")]
 //[assembly: AssemblyCulture("en-US")]
